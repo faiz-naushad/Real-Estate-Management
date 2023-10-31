@@ -16,7 +16,7 @@ media
 *$py.class
 
 *.so
-
+/photos/2023/09/24
 .Python
 build/
 develop-eggs/
